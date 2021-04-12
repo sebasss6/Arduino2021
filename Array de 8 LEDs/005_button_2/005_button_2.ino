@@ -55,9 +55,9 @@ void loop()
   delay(500);                  // es queden leds 500ms apagats
 
 
-          }
-          else
-          {digitalWrite(led0, HIGH);    // posar a 5V el pin 5
+ }
+  else
+ {digitalWrite(led0, HIGH);    // posar a 5V el pin 5
   digitalWrite(led1, LOW);    // posar a 5V el pin 6
   digitalWrite(led2, HIGH);    // posar a 5V el pin 7
   digitalWrite(led3, LOW);    // posar a 5V el pin 8
